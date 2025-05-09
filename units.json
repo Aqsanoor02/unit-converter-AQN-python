@@ -1,0 +1,14 @@
+{
+    "Length": ["meter", "kilometer", "centimeter", "millimeter", "mile", "yard", "foot", "inch"],
+    "Mass": ["gram", "kilogram", "milligram", "pound", "ounce", "ton"],
+    "Time": ["second", "minute", "hour", "day", "week", "month", "year"],
+    "Temperature": ["celsius", "fahrenheit", "kelvin"],
+    "Speed": ["meter/second", "kilometer/hour", "mile/hour", "knot"],
+    "Area": ["square meter", "square kilometer", "square mile", "square yard", "square foot", "acre", "hectare"],
+    "Volume": ["liter", "milliliter", "cubic meter", "cubic centimeter", "gallon", "quart", "pint", "cup"],
+    "Energy": ["joule", "kilojoule", "calorie", "kilocalorie", "watt hour", "kilowatt hour"],
+    "Pressure": ["pascal", "kilopascal", "bar", "atmosphere", "psi", "mmHg"],
+    "Power": ["watt", "kilowatt", "megawatt", "horsepower"],
+    "Data": ["bit", "byte", "kilobyte", "megabyte", "gigabyte", "terabyte"]
+  }
+  
